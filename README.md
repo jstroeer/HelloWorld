@@ -1,2 +1,5 @@
+we have a master branch
 
-THIS WAS MADE IN myBranch
+We have a myBranch branch
+
+some changes made for test
